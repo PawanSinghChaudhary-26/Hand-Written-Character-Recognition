@@ -19,14 +19,14 @@ This is a Character Recognition System which I developed for Devanagari Script.
 ##### 1.Launch Anaconda Powershell Prompt & create a new Conda Environment to install all required packages.
 ##### conda create --name myenv     
    eg: conda create --name test
-##### After creating the environment do activate that environment by the command-  conda activate myenv  
+##### After creating the environment do activate that environment by the command:  conda activate myenv  
 After doing so install the following packages inside the environment as listed below:
 
-##### 2.Install the Python version- conda install python=3.6.13
-##### 3.Install numpy- conda install numpy
-##### 4.Install keras- conda install keras
-##### 5.Install tensorflow- conda install tensorflow
-##### 6.Install opencv- conda install opencv-python==3.4.17.63
+##### 2.Install the Python version:  conda install python=3.6.13
+##### 3.Install numpy:  conda install numpy
+##### 4.Install keras:  conda install keras
+##### 5.Install tensorflow:  conda install tensorflow
+##### 6.Install opencv:  conda install opencv-python==3.4.17.63
 
 After you are done installing all these packages ,simply exit the anaconda powershell prompt.
 ### Note: Keep the following files inside the same folder:
