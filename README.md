@@ -16,23 +16,17 @@ This is a Character Recognition System which I developed for Devanagari Script.
 
 ## Install latest version of Anaconda & inside Anaconda Navigator we have to work upon Jupyter Notebook.
 
-1. Launch Anaconda Powershell Prompt & create a new Conda Environment to install all required packages.
-   ##### conda create --name myenv     
-   ##### eg: conda create --name test
-   After creating the environment do activate that environment by the command ,
-   ##### conda activate myenv
-   After doing so install the following packages inside the environment as listed below:
+##### 1.Launch Anaconda Powershell Prompt & create a new Conda Environment to install all required packages.
+##### conda create --name myenv     
+   eg: conda create --name test
+##### After creating the environment do activate that environment by the command-  conda activate myenv  
+After doing so install the following packages inside the environment as listed below:
 
-2. Install the Python version ,
-##### conda install python=3.6.13
-3. Install numpy ,
-##### conda install numpy
-4. Install keras ,
-##### conda install keras
-5. Install tensorflow ,
-##### conda install tensorflow
-6.  Install opencv , 
-##### conda install opencv-python==3.4.17.63
+##### 2.Install the Python version- conda install python=3.6.13
+##### 3.Install numpy- conda install numpy
+##### 4.Install keras- conda install keras
+##### 5.Install tensorflow- conda install tensorflow
+##### 6.Install opencv- conda install opencv-python==3.4.17.63
 
 After you are done installing all these packages ,simply exit the anaconda powershell prompt.
 ### Note: Keep the following files inside the same folder:
@@ -41,5 +35,5 @@ After you are done installing all these packages ,simply exit the anaconda power
 3. train.ipynb
 4. app.ipynb
 
-handWritingRecognition.py require data set data.csv for training and test
+handWritingRecognition.py require data set data.csv for training and testing.<br>
 application.py require devanagari_model.h5 model for classify the characters.
