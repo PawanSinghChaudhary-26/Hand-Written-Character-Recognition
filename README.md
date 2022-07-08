@@ -30,7 +30,8 @@ After doing so install the following packages inside the environment as listed b
 
 After you are done installing all these packages ,simply exit the anaconda powershell prompt.
 ### Note: Keep the following files inside the same folder:
-1. data.csv
+1. data.csv- LINK::https://drive.google.com/file/d/1Qz-2JIiRM8UmZu2HtAgqq_wFNoqgGyw2/view?usp=sharing
+data.csv file is large so provided the google drive link for that.
 2. devnagari_model.h5
 3. train.ipynb
 4. app.ipynb
