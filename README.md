@@ -1,4 +1,4 @@
-## initial editing date 05-07-2022
+### last edited on 08-07-2022
 
 # Hand-Written-Character-Recognition
 Using Deep-Learning
@@ -12,9 +12,9 @@ This is a Character Recognition System which I developed for Devanagari Script.
 ### What is Devanagari?
 #### An alphabet usually employed for Sanskrit and used as a literary hand for various modern languages of India
 
-## Project Requirements :
+### Project Requirements :
 
-## Install latest version of Anaconda & inside Anaconda Navigator we have to work upon Jupyter Notebook.
+#### Install latest version of Anaconda & inside Anaconda Navigator we have to work upon Jupyter Notebook.
 
 ##### 1.Launch Anaconda Powershell Prompt & create a new Conda Environment to install all required packages.
 ##### conda create --name myenv     
