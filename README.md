@@ -12,20 +12,19 @@ This is a Character Recognition System which I developed for Devanagari Script.
 ## What is Devanagari?
 ## An alphabet usually employed for Sanskrit and used as a literary hand for various modern languages of India
 
-
-Project Requirements :
+## Project Requirements :
 
 ->Install latest version of Anaconda & inside Anaconda Navigator we have to work upon Jupyter Notebook.
 
 1. Launch Anaconda Powershell Prompt & create a new Conda Environment to install all required packages.
-   ### -> $ conda create --name myenv     
+   ### conda create --name myenv     
    ### eg: conda create --name test
-    After creating the environment do activate that environment by the command ,
-    ### conda activate myenv
-## -->After doing so install the following packages inside the environment as listed below:
+   After creating the environment do activate that environment by the command ,
+   ### conda activate myenv
+   After doing so install the following packages inside the environment as listed below:
 
 2. Install the Python version ,
-### conda install python=3.6.13
+##### conda install python=3.6.13
 
 3. Install numpy ,
 ### conda install numpy
